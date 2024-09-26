@@ -1,0 +1,4724 @@
+{
+    "totalStudents": 30,
+    "totalPass": 27,
+    "totalFail": 3,
+    "totalAbsent": 0,
+    "students": [
+        {
+            "name": "John Doe",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 14,
+                "Phy-1": 18,
+                "Che-1": 16,
+                "Bio-1": 13,
+                "HMM-1": 17,
+                "ICT-1": 18
+            }
+        },
+        {
+            "name": "Alex Turner",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 18,
+                "Phy-1": 19,
+                "Che-1": 18,
+                "Bio-1": 17,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Rachel Green",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Ban-1": 12,
+                "Eng-1": 15,
+                "Phy-1": 14,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 13,
+                "ICT-1": 15
+            }
+        },
+        {
+            "name": "Mark Johnson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 16,
+                "Phy-1": 18,
+                "Che-1": 17,
+                "Bio-1": 16,
+                "HMM-1": 17,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Lucy Kim",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Ban-1": 14,
+                "Eng-1": 16,
+                "Phy-1": 15,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 15,
+                "ICT-1": 16
+            }
+        },
+        {
+            "name": "Mia Watson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Phy-1": 16,
+                "Che-1": 15,
+                "Bio-1": 14,
+                "HMM-1": 16,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Liam Scott",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 19,
+            "totalMark": 114,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 19,
+                "Phy-1": 18,
+                "Che-1": 19,
+                "Bio-1": 18,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Jane Smith",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Acc-1": 16,
+                "Eco-1": 13,
+                "Bus-1": 15,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 14,
+                "Ban-1": 15,
+                "Eng-1": 13
+            }
+        },
+        {
+            "name": "Tom Hanks",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "Acc-1": 12,
+                "Eco-1": 12,
+                "Bus-1": 13,
+                "Math-1": 10,
+                "ICT-1": 11,
+                "BLA-1": 12,
+                "Stat-1": 11,
+                "Ban-1": 10,
+                "Eng-1": 11
+            }
+        },
+        {
+            "name": "Ella Reed",
+            "group": "Commerce",
+            "optionalCourse": "Management",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Acc-1": 14,
+                "Eco-1": 15,
+                "Bus-1": 16,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 15,
+                "Ban-1": 13,
+                "Eng-1": 14
+            }
+        },
+        {
+            "name": "Jack White",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Acc-1": 17,
+                "Eco-1": 16,
+                "Bus-1": 18,
+                "Math-1": 15,
+                "ICT-1": 16,
+                "BLA-1": 17,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 16
+            }
+        },
+        {
+            "name": "Megan Fox",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Acc-1": 19,
+                "Eco-1": 18,
+                "Bus-1": 17,
+                "Math-1": 18,
+                "ICT-1": 17,
+                "BLA-1": 18,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 17
+            }
+        },
+        {
+            "name": "Emily Davis",
+            "group": "Humanities",
+            "optionalCourse": "History",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "His-1": 12,
+                "Geo-1": 10,
+                "Soc-1": 11,
+                "Eco-1": 12,
+                "Math-1": 11,
+                "ICT-1": 10,
+                "Ban-1": 10,
+                "Eng-1": 11,
+                "Pol-1": 13,
+                "Psy-1": 14,
+                "Stat-1": 12
+            }
+        },
+        {
+            "name": "John Snow",
+            "group": "Humanities",
+            "optionalCourse": "Geography",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "His-1": 14,
+                "Geo-1": 15,
+                "Soc-1": 13,
+                "Eco-1": 12,
+                "Math-1": 14,
+                "ICT-1": 13,
+                "Ban-1": 14,
+                "Eng-1": 13,
+                "Pol-1": 15,
+                "Psy-1": 14,
+                "Stat-1": 14
+            }
+        },
+        {
+            "name": "Sophia Black",
+            "group": "Humanities",
+            "optionalCourse": "Political Science",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "His-1": 15,
+                "Geo-1": 16,
+                "Soc-1": 16,
+                "Eco-1": 15,
+                "Math-1": 13,
+                "ICT-1": 15,
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Pol-1": 16,
+                "Psy-1": 16,
+                "Stat-1": 15
+            }
+        },
+        {
+            "name": "John Doe",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 14,
+                "Phy-1": 18,
+                "Che-1": 16,
+                "Bio-1": 13,
+                "HMM-1": 17,
+                "ICT-1": 18
+            }
+        },
+        {
+            "name": "Alex Turner",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 18,
+                "Phy-1": 19,
+                "Che-1": 18,
+                "Bio-1": 17,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Rachel Green",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Ban-1": 12,
+                "Eng-1": 15,
+                "Phy-1": 14,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 13,
+                "ICT-1": 15
+            }
+        },
+        {
+            "name": "Mark Johnson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 16,
+                "Phy-1": 18,
+                "Che-1": 17,
+                "Bio-1": 16,
+                "HMM-1": 17,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Lucy Kim",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Ban-1": 14,
+                "Eng-1": 16,
+                "Phy-1": 15,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 15,
+                "ICT-1": 16
+            }
+        },
+        {
+            "name": "Mia Watson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Phy-1": 16,
+                "Che-1": 15,
+                "Bio-1": 14,
+                "HMM-1": 16,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Liam Scott",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 19,
+            "totalMark": 114,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 19,
+                "Phy-1": 18,
+                "Che-1": 19,
+                "Bio-1": 18,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Jane Smith",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Acc-1": 16,
+                "Eco-1": 13,
+                "Bus-1": 15,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 14,
+                "Ban-1": 15,
+                "Eng-1": 13
+            }
+        },
+        {
+            "name": "Tom Hanks",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "Acc-1": 12,
+                "Eco-1": 12,
+                "Bus-1": 13,
+                "Math-1": 10,
+                "ICT-1": 11,
+                "BLA-1": 12,
+                "Stat-1": 11,
+                "Ban-1": 10,
+                "Eng-1": 11
+            }
+        },
+        {
+            "name": "Ella Reed",
+            "group": "Commerce",
+            "optionalCourse": "Management",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Acc-1": 14,
+                "Eco-1": 15,
+                "Bus-1": 16,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 15,
+                "Ban-1": 13,
+                "Eng-1": 14
+            }
+        },
+        {
+            "name": "Jack White",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Acc-1": 17,
+                "Eco-1": 16,
+                "Bus-1": 18,
+                "Math-1": 15,
+                "ICT-1": 16,
+                "BLA-1": 17,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 16
+            }
+        },
+        {
+            "name": "Megan Fox",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Acc-1": 19,
+                "Eco-1": 18,
+                "Bus-1": 17,
+                "Math-1": 18,
+                "ICT-1": 17,
+                "BLA-1": 18,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 17
+            }
+        },
+        {
+            "name": "Emily Davis",
+            "group": "Humanities",
+            "optionalCourse": "History",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "His-1": 12,
+                "Geo-1": 10,
+                "Soc-1": 11,
+                "Eco-1": 12,
+                "Math-1": 11,
+                "ICT-1": 10,
+                "Ban-1": 10,
+                "Eng-1": 11,
+                "Pol-1": 13,
+                "Psy-1": 14,
+                "Stat-1": 12
+            }
+        },
+        {
+            "name": "John Snow",
+            "group": "Humanities",
+            "optionalCourse": "Geography",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "His-1": 14,
+                "Geo-1": 15,
+                "Soc-1": 13,
+                "Eco-1": 12,
+                "Math-1": 14,
+                "ICT-1": 13,
+                "Ban-1": 14,
+                "Eng-1": 13,
+                "Pol-1": 15,
+                "Psy-1": 14,
+                "Stat-1": 14
+            }
+        },
+        {
+            "name": "Sophia Black",
+            "group": "Humanities",
+            "optionalCourse": "Political Science",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "His-1": 15,
+                "Geo-1": 16,
+                "Soc-1": 16,
+                "Eco-1": 15,
+                "Math-1": 13,
+                "ICT-1": 15,
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Pol-1": 16,
+                "Psy-1": 16,
+                "Stat-1": 15
+            }
+        },
+        {
+            "name": "John Doe",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 14,
+                "Phy-1": 18,
+                "Che-1": 16,
+                "Bio-1": 13,
+                "HMM-1": 17,
+                "ICT-1": 18
+            }
+        },
+        {
+            "name": "Alex Turner",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 18,
+                "Phy-1": 19,
+                "Che-1": 18,
+                "Bio-1": 17,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Rachel Green",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Ban-1": 12,
+                "Eng-1": 15,
+                "Phy-1": 14,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 13,
+                "ICT-1": 15
+            }
+        },
+        {
+            "name": "Mark Johnson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 16,
+                "Phy-1": 18,
+                "Che-1": 17,
+                "Bio-1": 16,
+                "HMM-1": 17,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Lucy Kim",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Ban-1": 14,
+                "Eng-1": 16,
+                "Phy-1": 15,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 15,
+                "ICT-1": 16
+            }
+        },
+        {
+            "name": "Mia Watson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Phy-1": 16,
+                "Che-1": 15,
+                "Bio-1": 14,
+                "HMM-1": 16,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Liam Scott",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 19,
+            "totalMark": 114,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 19,
+                "Phy-1": 18,
+                "Che-1": 19,
+                "Bio-1": 18,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Jane Smith",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Acc-1": 16,
+                "Eco-1": 13,
+                "Bus-1": 15,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 14,
+                "Ban-1": 15,
+                "Eng-1": 13
+            }
+        },
+        {
+            "name": "Tom Hanks",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "Acc-1": 12,
+                "Eco-1": 12,
+                "Bus-1": 13,
+                "Math-1": 10,
+                "ICT-1": 11,
+                "BLA-1": 12,
+                "Stat-1": 11,
+                "Ban-1": 10,
+                "Eng-1": 11
+            }
+        },
+        {
+            "name": "Ella Reed",
+            "group": "Commerce",
+            "optionalCourse": "Management",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Acc-1": 14,
+                "Eco-1": 15,
+                "Bus-1": 16,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 15,
+                "Ban-1": 13,
+                "Eng-1": 14
+            }
+        },
+        {
+            "name": "Jack White",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Acc-1": 17,
+                "Eco-1": 16,
+                "Bus-1": 18,
+                "Math-1": 15,
+                "ICT-1": 16,
+                "BLA-1": 17,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 16
+            }
+        },
+        {
+            "name": "Megan Fox",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Acc-1": 19,
+                "Eco-1": 18,
+                "Bus-1": 17,
+                "Math-1": 18,
+                "ICT-1": 17,
+                "BLA-1": 18,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 17
+            }
+        },
+        {
+            "name": "Emily Davis",
+            "group": "Humanities",
+            "optionalCourse": "History",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "His-1": 12,
+                "Geo-1": 10,
+                "Soc-1": 11,
+                "Eco-1": 12,
+                "Math-1": 11,
+                "ICT-1": 10,
+                "Ban-1": 10,
+                "Eng-1": 11,
+                "Pol-1": 13,
+                "Psy-1": 14,
+                "Stat-1": 12
+            }
+        },
+        {
+            "name": "John Snow",
+            "group": "Humanities",
+            "optionalCourse": "Geography",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "His-1": 14,
+                "Geo-1": 15,
+                "Soc-1": 13,
+                "Eco-1": 12,
+                "Math-1": 14,
+                "ICT-1": 13,
+                "Ban-1": 14,
+                "Eng-1": 13,
+                "Pol-1": 15,
+                "Psy-1": 14,
+                "Stat-1": 14
+            }
+        },
+        {
+            "name": "Sophia Black",
+            "group": "Humanities",
+            "optionalCourse": "Political Science",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "His-1": 15,
+                "Geo-1": 16,
+                "Soc-1": 16,
+                "Eco-1": 15,
+                "Math-1": 13,
+                "ICT-1": 15,
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Pol-1": 16,
+                "Psy-1": 16,
+                "Stat-1": 15
+            }
+        },
+        {
+            "name": "John Doe",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 14,
+                "Phy-1": 18,
+                "Che-1": 16,
+                "Bio-1": 13,
+                "HMM-1": 17,
+                "ICT-1": 18
+            }
+        },
+        {
+            "name": "Alex Turner",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 18,
+                "Phy-1": 19,
+                "Che-1": 18,
+                "Bio-1": 17,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Rachel Green",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Ban-1": 12,
+                "Eng-1": 15,
+                "Phy-1": 14,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 13,
+                "ICT-1": 15
+            }
+        },
+        {
+            "name": "Mark Johnson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 16,
+                "Phy-1": 18,
+                "Che-1": 17,
+                "Bio-1": 16,
+                "HMM-1": 17,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Lucy Kim",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Ban-1": 14,
+                "Eng-1": 16,
+                "Phy-1": 15,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 15,
+                "ICT-1": 16
+            }
+        },
+        {
+            "name": "Mia Watson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Phy-1": 16,
+                "Che-1": 15,
+                "Bio-1": 14,
+                "HMM-1": 16,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Liam Scott",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 19,
+            "totalMark": 114,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 19,
+                "Phy-1": 18,
+                "Che-1": 19,
+                "Bio-1": 18,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Jane Smith",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Acc-1": 16,
+                "Eco-1": 13,
+                "Bus-1": 15,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 14,
+                "Ban-1": 15,
+                "Eng-1": 13
+            }
+        },
+        {
+            "name": "Tom Hanks",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "Acc-1": 12,
+                "Eco-1": 12,
+                "Bus-1": 13,
+                "Math-1": 10,
+                "ICT-1": 11,
+                "BLA-1": 12,
+                "Stat-1": 11,
+                "Ban-1": 10,
+                "Eng-1": 11
+            }
+        },
+        {
+            "name": "Ella Reed",
+            "group": "Commerce",
+            "optionalCourse": "Management",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Acc-1": 14,
+                "Eco-1": 15,
+                "Bus-1": 16,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 15,
+                "Ban-1": 13,
+                "Eng-1": 14
+            }
+        },
+        {
+            "name": "Jack White",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Acc-1": 17,
+                "Eco-1": 16,
+                "Bus-1": 18,
+                "Math-1": 15,
+                "ICT-1": 16,
+                "BLA-1": 17,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 16
+            }
+        },
+        {
+            "name": "Megan Fox",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Acc-1": 19,
+                "Eco-1": 18,
+                "Bus-1": 17,
+                "Math-1": 18,
+                "ICT-1": 17,
+                "BLA-1": 18,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 17
+            }
+        },
+        {
+            "name": "Emily Davis",
+            "group": "Humanities",
+            "optionalCourse": "History",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "His-1": 12,
+                "Geo-1": 10,
+                "Soc-1": 11,
+                "Eco-1": 12,
+                "Math-1": 11,
+                "ICT-1": 10,
+                "Ban-1": 10,
+                "Eng-1": 11,
+                "Pol-1": 13,
+                "Psy-1": 14,
+                "Stat-1": 12
+            }
+        },
+        {
+            "name": "John Snow",
+            "group": "Humanities",
+            "optionalCourse": "Geography",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "His-1": 14,
+                "Geo-1": 15,
+                "Soc-1": 13,
+                "Eco-1": 12,
+                "Math-1": 14,
+                "ICT-1": 13,
+                "Ban-1": 14,
+                "Eng-1": 13,
+                "Pol-1": 15,
+                "Psy-1": 14,
+                "Stat-1": 14
+            }
+        },
+        {
+            "name": "Sophia Black",
+            "group": "Humanities",
+            "optionalCourse": "Political Science",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "His-1": 15,
+                "Geo-1": 16,
+                "Soc-1": 16,
+                "Eco-1": 15,
+                "Math-1": 13,
+                "ICT-1": 15,
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Pol-1": 16,
+                "Psy-1": 16,
+                "Stat-1": 15
+            }
+        },
+        {
+            "name": "John Doe",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 14,
+                "Phy-1": 18,
+                "Che-1": 16,
+                "Bio-1": 13,
+                "HMM-1": 17,
+                "ICT-1": 18
+            }
+        },
+        {
+            "name": "Alex Turner",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 18,
+                "Phy-1": 19,
+                "Che-1": 18,
+                "Bio-1": 17,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Rachel Green",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Ban-1": 12,
+                "Eng-1": 15,
+                "Phy-1": 14,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 13,
+                "ICT-1": 15
+            }
+        },
+        {
+            "name": "Mark Johnson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 16,
+                "Phy-1": 18,
+                "Che-1": 17,
+                "Bio-1": 16,
+                "HMM-1": 17,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Lucy Kim",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Ban-1": 14,
+                "Eng-1": 16,
+                "Phy-1": 15,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 15,
+                "ICT-1": 16
+            }
+        },
+        {
+            "name": "Mia Watson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Phy-1": 16,
+                "Che-1": 15,
+                "Bio-1": 14,
+                "HMM-1": 16,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Liam Scott",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 19,
+            "totalMark": 114,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 19,
+                "Phy-1": 18,
+                "Che-1": 19,
+                "Bio-1": 18,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Jane Smith",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Acc-1": 16,
+                "Eco-1": 13,
+                "Bus-1": 15,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 14,
+                "Ban-1": 15,
+                "Eng-1": 13
+            }
+        },
+        {
+            "name": "Tom Hanks",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "Acc-1": 12,
+                "Eco-1": 12,
+                "Bus-1": 13,
+                "Math-1": 10,
+                "ICT-1": 11,
+                "BLA-1": 12,
+                "Stat-1": 11,
+                "Ban-1": 10,
+                "Eng-1": 11
+            }
+        },
+        {
+            "name": "Ella Reed",
+            "group": "Commerce",
+            "optionalCourse": "Management",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Acc-1": 14,
+                "Eco-1": 15,
+                "Bus-1": 16,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 15,
+                "Ban-1": 13,
+                "Eng-1": 14
+            }
+        },
+        {
+            "name": "Jack White",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Acc-1": 17,
+                "Eco-1": 16,
+                "Bus-1": 18,
+                "Math-1": 15,
+                "ICT-1": 16,
+                "BLA-1": 17,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 16
+            }
+        },
+        {
+            "name": "Megan Fox",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Acc-1": 19,
+                "Eco-1": 18,
+                "Bus-1": 17,
+                "Math-1": 18,
+                "ICT-1": 17,
+                "BLA-1": 18,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 17
+            }
+        },
+        {
+            "name": "Emily Davis",
+            "group": "Humanities",
+            "optionalCourse": "History",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "His-1": 12,
+                "Geo-1": 10,
+                "Soc-1": 11,
+                "Eco-1": 12,
+                "Math-1": 11,
+                "ICT-1": 10,
+                "Ban-1": 10,
+                "Eng-1": 11,
+                "Pol-1": 13,
+                "Psy-1": 14,
+                "Stat-1": 12
+            }
+        },
+        {
+            "name": "John Snow",
+            "group": "Humanities",
+            "optionalCourse": "Geography",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "His-1": 14,
+                "Geo-1": 15,
+                "Soc-1": 13,
+                "Eco-1": 12,
+                "Math-1": 14,
+                "ICT-1": 13,
+                "Ban-1": 14,
+                "Eng-1": 13,
+                "Pol-1": 15,
+                "Psy-1": 14,
+                "Stat-1": 14
+            }
+        },
+        {
+            "name": "Sophia Black",
+            "group": "Humanities",
+            "optionalCourse": "Political Science",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "His-1": 15,
+                "Geo-1": 16,
+                "Soc-1": 16,
+                "Eco-1": 15,
+                "Math-1": 13,
+                "ICT-1": 15,
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Pol-1": 16,
+                "Psy-1": 16,
+                "Stat-1": 15
+            }
+        },
+        {
+            "name": "John Doe",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 14,
+                "Phy-1": 18,
+                "Che-1": 16,
+                "Bio-1": 13,
+                "HMM-1": 17,
+                "ICT-1": 18
+            }
+        },
+        {
+            "name": "Alex Turner",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 18,
+                "Phy-1": 19,
+                "Che-1": 18,
+                "Bio-1": 17,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Rachel Green",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Ban-1": 12,
+                "Eng-1": 15,
+                "Phy-1": 14,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 13,
+                "ICT-1": 15
+            }
+        },
+        {
+            "name": "Mark Johnson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 16,
+                "Phy-1": 18,
+                "Che-1": 17,
+                "Bio-1": 16,
+                "HMM-1": 17,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Lucy Kim",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Ban-1": 14,
+                "Eng-1": 16,
+                "Phy-1": 15,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 15,
+                "ICT-1": 16
+            }
+        },
+        {
+            "name": "Mia Watson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Phy-1": 16,
+                "Che-1": 15,
+                "Bio-1": 14,
+                "HMM-1": 16,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Liam Scott",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 19,
+            "totalMark": 114,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 19,
+                "Phy-1": 18,
+                "Che-1": 19,
+                "Bio-1": 18,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Jane Smith",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Acc-1": 16,
+                "Eco-1": 13,
+                "Bus-1": 15,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 14,
+                "Ban-1": 15,
+                "Eng-1": 13
+            }
+        },
+        {
+            "name": "Tom Hanks",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "Acc-1": 12,
+                "Eco-1": 12,
+                "Bus-1": 13,
+                "Math-1": 10,
+                "ICT-1": 11,
+                "BLA-1": 12,
+                "Stat-1": 11,
+                "Ban-1": 10,
+                "Eng-1": 11
+            }
+        },
+        {
+            "name": "Ella Reed",
+            "group": "Commerce",
+            "optionalCourse": "Management",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Acc-1": 14,
+                "Eco-1": 15,
+                "Bus-1": 16,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 15,
+                "Ban-1": 13,
+                "Eng-1": 14
+            }
+        },
+        {
+            "name": "Jack White",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Acc-1": 17,
+                "Eco-1": 16,
+                "Bus-1": 18,
+                "Math-1": 15,
+                "ICT-1": 16,
+                "BLA-1": 17,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 16
+            }
+        },
+        {
+            "name": "Megan Fox",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Acc-1": 19,
+                "Eco-1": 18,
+                "Bus-1": 17,
+                "Math-1": 18,
+                "ICT-1": 17,
+                "BLA-1": 18,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 17
+            }
+        },
+        {
+            "name": "Emily Davis",
+            "group": "Humanities",
+            "optionalCourse": "History",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "His-1": 12,
+                "Geo-1": 10,
+                "Soc-1": 11,
+                "Eco-1": 12,
+                "Math-1": 11,
+                "ICT-1": 10,
+                "Ban-1": 10,
+                "Eng-1": 11,
+                "Pol-1": 13,
+                "Psy-1": 14,
+                "Stat-1": 12
+            }
+        },
+        {
+            "name": "John Snow",
+            "group": "Humanities",
+            "optionalCourse": "Geography",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "His-1": 14,
+                "Geo-1": 15,
+                "Soc-1": 13,
+                "Eco-1": 12,
+                "Math-1": 14,
+                "ICT-1": 13,
+                "Ban-1": 14,
+                "Eng-1": 13,
+                "Pol-1": 15,
+                "Psy-1": 14,
+                "Stat-1": 14
+            }
+        },
+        {
+            "name": "Sophia Black",
+            "group": "Humanities",
+            "optionalCourse": "Political Science",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "His-1": 15,
+                "Geo-1": 16,
+                "Soc-1": 16,
+                "Eco-1": 15,
+                "Math-1": 13,
+                "ICT-1": 15,
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Pol-1": 16,
+                "Psy-1": 16,
+                "Stat-1": 15
+            }
+        },
+        {
+            "name": "John Doe",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 14,
+                "Phy-1": 18,
+                "Che-1": 16,
+                "Bio-1": 13,
+                "HMM-1": 17,
+                "ICT-1": 18
+            }
+        },
+        {
+            "name": "Alex Turner",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 18,
+                "Phy-1": 19,
+                "Che-1": 18,
+                "Bio-1": 17,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Rachel Green",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Ban-1": 12,
+                "Eng-1": 15,
+                "Phy-1": 14,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 13,
+                "ICT-1": 15
+            }
+        },
+        {
+            "name": "Mark Johnson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 16,
+                "Phy-1": 18,
+                "Che-1": 17,
+                "Bio-1": 16,
+                "HMM-1": 17,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Lucy Kim",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Ban-1": 14,
+                "Eng-1": 16,
+                "Phy-1": 15,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 15,
+                "ICT-1": 16
+            }
+        },
+        {
+            "name": "Mia Watson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Phy-1": 16,
+                "Che-1": 15,
+                "Bio-1": 14,
+                "HMM-1": 16,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Liam Scott",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 19,
+            "totalMark": 114,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 19,
+                "Phy-1": 18,
+                "Che-1": 19,
+                "Bio-1": 18,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Jane Smith",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Acc-1": 16,
+                "Eco-1": 13,
+                "Bus-1": 15,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 14,
+                "Ban-1": 15,
+                "Eng-1": 13
+            }
+        },
+        {
+            "name": "Tom Hanks",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "Acc-1": 12,
+                "Eco-1": 12,
+                "Bus-1": 13,
+                "Math-1": 10,
+                "ICT-1": 11,
+                "BLA-1": 12,
+                "Stat-1": 11,
+                "Ban-1": 10,
+                "Eng-1": 11
+            }
+        },
+        {
+            "name": "Ella Reed",
+            "group": "Commerce",
+            "optionalCourse": "Management",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Acc-1": 14,
+                "Eco-1": 15,
+                "Bus-1": 16,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 15,
+                "Ban-1": 13,
+                "Eng-1": 14
+            }
+        },
+        {
+            "name": "Jack White",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Acc-1": 17,
+                "Eco-1": 16,
+                "Bus-1": 18,
+                "Math-1": 15,
+                "ICT-1": 16,
+                "BLA-1": 17,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 16
+            }
+        },
+        {
+            "name": "Megan Fox",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Acc-1": 19,
+                "Eco-1": 18,
+                "Bus-1": 17,
+                "Math-1": 18,
+                "ICT-1": 17,
+                "BLA-1": 18,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 17
+            }
+        },
+        {
+            "name": "Emily Davis",
+            "group": "Humanities",
+            "optionalCourse": "History",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "His-1": 12,
+                "Geo-1": 10,
+                "Soc-1": 11,
+                "Eco-1": 12,
+                "Math-1": 11,
+                "ICT-1": 10,
+                "Ban-1": 10,
+                "Eng-1": 11,
+                "Pol-1": 13,
+                "Psy-1": 14,
+                "Stat-1": 12
+            }
+        },
+        {
+            "name": "John Snow",
+            "group": "Humanities",
+            "optionalCourse": "Geography",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "His-1": 14,
+                "Geo-1": 15,
+                "Soc-1": 13,
+                "Eco-1": 12,
+                "Math-1": 14,
+                "ICT-1": 13,
+                "Ban-1": 14,
+                "Eng-1": 13,
+                "Pol-1": 15,
+                "Psy-1": 14,
+                "Stat-1": 14
+            }
+        },
+        {
+            "name": "Sophia Black",
+            "group": "Humanities",
+            "optionalCourse": "Political Science",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "His-1": 15,
+                "Geo-1": 16,
+                "Soc-1": 16,
+                "Eco-1": 15,
+                "Math-1": 13,
+                "ICT-1": 15,
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Pol-1": 16,
+                "Psy-1": 16,
+                "Stat-1": 15
+            }
+        },
+        {
+            "name": "John Doe",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 14,
+                "Phy-1": 18,
+                "Che-1": 16,
+                "Bio-1": 13,
+                "HMM-1": 17,
+                "ICT-1": 18
+            }
+        },
+        {
+            "name": "Alex Turner",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 18,
+                "Phy-1": 19,
+                "Che-1": 18,
+                "Bio-1": 17,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Rachel Green",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Ban-1": 12,
+                "Eng-1": 15,
+                "Phy-1": 14,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 13,
+                "ICT-1": 15
+            }
+        },
+        {
+            "name": "Mark Johnson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 16,
+                "Phy-1": 18,
+                "Che-1": 17,
+                "Bio-1": 16,
+                "HMM-1": 17,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Lucy Kim",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Ban-1": 14,
+                "Eng-1": 16,
+                "Phy-1": 15,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 15,
+                "ICT-1": 16
+            }
+        },
+        {
+            "name": "Mia Watson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Phy-1": 16,
+                "Che-1": 15,
+                "Bio-1": 14,
+                "HMM-1": 16,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Liam Scott",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 19,
+            "totalMark": 114,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 19,
+                "Phy-1": 18,
+                "Che-1": 19,
+                "Bio-1": 18,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Jane Smith",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Acc-1": 16,
+                "Eco-1": 13,
+                "Bus-1": 15,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 14,
+                "Ban-1": 15,
+                "Eng-1": 13
+            }
+        },
+        {
+            "name": "Tom Hanks",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "Acc-1": 12,
+                "Eco-1": 12,
+                "Bus-1": 13,
+                "Math-1": 10,
+                "ICT-1": 11,
+                "BLA-1": 12,
+                "Stat-1": 11,
+                "Ban-1": 10,
+                "Eng-1": 11
+            }
+        },
+        {
+            "name": "Ella Reed",
+            "group": "Commerce",
+            "optionalCourse": "Management",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Acc-1": 14,
+                "Eco-1": 15,
+                "Bus-1": 16,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 15,
+                "Ban-1": 13,
+                "Eng-1": 14
+            }
+        },
+        {
+            "name": "Jack White",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Acc-1": 17,
+                "Eco-1": 16,
+                "Bus-1": 18,
+                "Math-1": 15,
+                "ICT-1": 16,
+                "BLA-1": 17,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 16
+            }
+        },
+        {
+            "name": "Megan Fox",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Acc-1": 19,
+                "Eco-1": 18,
+                "Bus-1": 17,
+                "Math-1": 18,
+                "ICT-1": 17,
+                "BLA-1": 18,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 17
+            }
+        },
+        {
+            "name": "Emily Davis",
+            "group": "Humanities",
+            "optionalCourse": "History",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "His-1": 12,
+                "Geo-1": 10,
+                "Soc-1": 11,
+                "Eco-1": 12,
+                "Math-1": 11,
+                "ICT-1": 10,
+                "Ban-1": 10,
+                "Eng-1": 11,
+                "Pol-1": 13,
+                "Psy-1": 14,
+                "Stat-1": 12
+            }
+        },
+        {
+            "name": "John Snow",
+            "group": "Humanities",
+            "optionalCourse": "Geography",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "His-1": 14,
+                "Geo-1": 15,
+                "Soc-1": 13,
+                "Eco-1": 12,
+                "Math-1": 14,
+                "ICT-1": 13,
+                "Ban-1": 14,
+                "Eng-1": 13,
+                "Pol-1": 15,
+                "Psy-1": 14,
+                "Stat-1": 14
+            }
+        },
+        {
+            "name": "Sophia Black",
+            "group": "Humanities",
+            "optionalCourse": "Political Science",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "His-1": 15,
+                "Geo-1": 16,
+                "Soc-1": 16,
+                "Eco-1": 15,
+                "Math-1": 13,
+                "ICT-1": 15,
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Pol-1": 16,
+                "Psy-1": 16,
+                "Stat-1": 15
+            }
+        },
+        {
+            "name": "John Doe",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 14,
+                "Phy-1": 18,
+                "Che-1": 16,
+                "Bio-1": 13,
+                "HMM-1": 17,
+                "ICT-1": 18
+            }
+        },
+        {
+            "name": "Alex Turner",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 18,
+                "Phy-1": 19,
+                "Che-1": 18,
+                "Bio-1": 17,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Rachel Green",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Ban-1": 12,
+                "Eng-1": 15,
+                "Phy-1": 14,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 13,
+                "ICT-1": 15
+            }
+        },
+        {
+            "name": "Mark Johnson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 16,
+                "Phy-1": 18,
+                "Che-1": 17,
+                "Bio-1": 16,
+                "HMM-1": 17,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Lucy Kim",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Ban-1": 14,
+                "Eng-1": 16,
+                "Phy-1": 15,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 15,
+                "ICT-1": 16
+            }
+        },
+        {
+            "name": "Mia Watson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Phy-1": 16,
+                "Che-1": 15,
+                "Bio-1": 14,
+                "HMM-1": 16,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Liam Scott",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 19,
+            "totalMark": 114,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 19,
+                "Phy-1": 18,
+                "Che-1": 19,
+                "Bio-1": 18,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Jane Smith",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Acc-1": 16,
+                "Eco-1": 13,
+                "Bus-1": 15,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 14,
+                "Ban-1": 15,
+                "Eng-1": 13
+            }
+        },
+        {
+            "name": "Tom Hanks",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "Acc-1": 12,
+                "Eco-1": 12,
+                "Bus-1": 13,
+                "Math-1": 10,
+                "ICT-1": 11,
+                "BLA-1": 12,
+                "Stat-1": 11,
+                "Ban-1": 10,
+                "Eng-1": 11
+            }
+        },
+        {
+            "name": "Ella Reed",
+            "group": "Commerce",
+            "optionalCourse": "Management",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Acc-1": 14,
+                "Eco-1": 15,
+                "Bus-1": 16,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 15,
+                "Ban-1": 13,
+                "Eng-1": 14
+            }
+        },
+        {
+            "name": "Jack White",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Acc-1": 17,
+                "Eco-1": 16,
+                "Bus-1": 18,
+                "Math-1": 15,
+                "ICT-1": 16,
+                "BLA-1": 17,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 16
+            }
+        },
+        {
+            "name": "Megan Fox",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Acc-1": 19,
+                "Eco-1": 18,
+                "Bus-1": 17,
+                "Math-1": 18,
+                "ICT-1": 17,
+                "BLA-1": 18,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 17
+            }
+        },
+        {
+            "name": "Emily Davis",
+            "group": "Humanities",
+            "optionalCourse": "History",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "His-1": 12,
+                "Geo-1": 10,
+                "Soc-1": 11,
+                "Eco-1": 12,
+                "Math-1": 11,
+                "ICT-1": 10,
+                "Ban-1": 10,
+                "Eng-1": 11,
+                "Pol-1": 13,
+                "Psy-1": 14,
+                "Stat-1": 12
+            }
+        },
+        {
+            "name": "John Snow",
+            "group": "Humanities",
+            "optionalCourse": "Geography",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "His-1": 14,
+                "Geo-1": 15,
+                "Soc-1": 13,
+                "Eco-1": 12,
+                "Math-1": 14,
+                "ICT-1": 13,
+                "Ban-1": 14,
+                "Eng-1": 13,
+                "Pol-1": 15,
+                "Psy-1": 14,
+                "Stat-1": 14
+            }
+        },
+        {
+            "name": "Sophia Black",
+            "group": "Humanities",
+            "optionalCourse": "Political Science",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "His-1": 15,
+                "Geo-1": 16,
+                "Soc-1": 16,
+                "Eco-1": 15,
+                "Math-1": 13,
+                "ICT-1": 15,
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Pol-1": 16,
+                "Psy-1": 16,
+                "Stat-1": 15
+            }
+        },
+        {
+            "name": "John Doe",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 14,
+                "Phy-1": 18,
+                "Che-1": 16,
+                "Bio-1": 13,
+                "HMM-1": 17,
+                "ICT-1": 18
+            }
+        },
+        {
+            "name": "Alex Turner",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 18,
+                "Phy-1": 19,
+                "Che-1": 18,
+                "Bio-1": 17,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Rachel Green",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Ban-1": 12,
+                "Eng-1": 15,
+                "Phy-1": 14,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 13,
+                "ICT-1": 15
+            }
+        },
+        {
+            "name": "Mark Johnson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 16,
+                "Phy-1": 18,
+                "Che-1": 17,
+                "Bio-1": 16,
+                "HMM-1": 17,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Lucy Kim",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Ban-1": 14,
+                "Eng-1": 16,
+                "Phy-1": 15,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 15,
+                "ICT-1": 16
+            }
+        },
+        {
+            "name": "Mia Watson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Phy-1": 16,
+                "Che-1": 15,
+                "Bio-1": 14,
+                "HMM-1": 16,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Liam Scott",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 19,
+            "totalMark": 114,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 19,
+                "Phy-1": 18,
+                "Che-1": 19,
+                "Bio-1": 18,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Jane Smith",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Acc-1": 16,
+                "Eco-1": 13,
+                "Bus-1": 15,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 14,
+                "Ban-1": 15,
+                "Eng-1": 13
+            }
+        },
+        {
+            "name": "Tom Hanks",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "Acc-1": 12,
+                "Eco-1": 12,
+                "Bus-1": 13,
+                "Math-1": 10,
+                "ICT-1": 11,
+                "BLA-1": 12,
+                "Stat-1": 11,
+                "Ban-1": 10,
+                "Eng-1": 11
+            }
+        },
+        {
+            "name": "Ella Reed",
+            "group": "Commerce",
+            "optionalCourse": "Management",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Acc-1": 14,
+                "Eco-1": 15,
+                "Bus-1": 16,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 15,
+                "Ban-1": 13,
+                "Eng-1": 14
+            }
+        },
+        {
+            "name": "Jack White",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Acc-1": 17,
+                "Eco-1": 16,
+                "Bus-1": 18,
+                "Math-1": 15,
+                "ICT-1": 16,
+                "BLA-1": 17,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 16
+            }
+        },
+        {
+            "name": "Megan Fox",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Acc-1": 19,
+                "Eco-1": 18,
+                "Bus-1": 17,
+                "Math-1": 18,
+                "ICT-1": 17,
+                "BLA-1": 18,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 17
+            }
+        },
+        {
+            "name": "Emily Davis",
+            "group": "Humanities",
+            "optionalCourse": "History",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "His-1": 12,
+                "Geo-1": 10,
+                "Soc-1": 11,
+                "Eco-1": 12,
+                "Math-1": 11,
+                "ICT-1": 10,
+                "Ban-1": 10,
+                "Eng-1": 11,
+                "Pol-1": 13,
+                "Psy-1": 14,
+                "Stat-1": 12
+            }
+        },
+        {
+            "name": "John Snow",
+            "group": "Humanities",
+            "optionalCourse": "Geography",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "His-1": 14,
+                "Geo-1": 15,
+                "Soc-1": 13,
+                "Eco-1": 12,
+                "Math-1": 14,
+                "ICT-1": 13,
+                "Ban-1": 14,
+                "Eng-1": 13,
+                "Pol-1": 15,
+                "Psy-1": 14,
+                "Stat-1": 14
+            }
+        },
+        {
+            "name": "Sophia Black",
+            "group": "Humanities",
+            "optionalCourse": "Political Science",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "His-1": 15,
+                "Geo-1": 16,
+                "Soc-1": 16,
+                "Eco-1": 15,
+                "Math-1": 13,
+                "ICT-1": 15,
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Pol-1": 16,
+                "Psy-1": 16,
+                "Stat-1": 15
+            }
+        },
+        {
+            "name": "John Doe",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 14,
+                "Phy-1": 18,
+                "Che-1": 16,
+                "Bio-1": 13,
+                "HMM-1": 17,
+                "ICT-1": 18
+            }
+        },
+        {
+            "name": "Alex Turner",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 18,
+                "Phy-1": 19,
+                "Che-1": 18,
+                "Bio-1": 17,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Rachel Green",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Ban-1": 12,
+                "Eng-1": 15,
+                "Phy-1": 14,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 13,
+                "ICT-1": 15
+            }
+        },
+        {
+            "name": "Mark Johnson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 16,
+                "Phy-1": 18,
+                "Che-1": 17,
+                "Bio-1": 16,
+                "HMM-1": 17,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Lucy Kim",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Ban-1": 14,
+                "Eng-1": 16,
+                "Phy-1": 15,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 15,
+                "ICT-1": 16
+            }
+        },
+        {
+            "name": "Mia Watson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Phy-1": 16,
+                "Che-1": 15,
+                "Bio-1": 14,
+                "HMM-1": 16,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Liam Scott",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 19,
+            "totalMark": 114,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 19,
+                "Phy-1": 18,
+                "Che-1": 19,
+                "Bio-1": 18,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Jane Smith",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Acc-1": 16,
+                "Eco-1": 13,
+                "Bus-1": 15,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 14,
+                "Ban-1": 15,
+                "Eng-1": 13
+            }
+        },
+        {
+            "name": "Tom Hanks",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "Acc-1": 12,
+                "Eco-1": 12,
+                "Bus-1": 13,
+                "Math-1": 10,
+                "ICT-1": 11,
+                "BLA-1": 12,
+                "Stat-1": 11,
+                "Ban-1": 10,
+                "Eng-1": 11
+            }
+        },
+        {
+            "name": "Ella Reed",
+            "group": "Commerce",
+            "optionalCourse": "Management",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Acc-1": 14,
+                "Eco-1": 15,
+                "Bus-1": 16,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 15,
+                "Ban-1": 13,
+                "Eng-1": 14
+            }
+        },
+        {
+            "name": "Jack White",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Acc-1": 17,
+                "Eco-1": 16,
+                "Bus-1": 18,
+                "Math-1": 15,
+                "ICT-1": 16,
+                "BLA-1": 17,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 16
+            }
+        },
+        {
+            "name": "Megan Fox",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Acc-1": 19,
+                "Eco-1": 18,
+                "Bus-1": 17,
+                "Math-1": 18,
+                "ICT-1": 17,
+                "BLA-1": 18,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 17
+            }
+        },
+        {
+            "name": "Emily Davis",
+            "group": "Humanities",
+            "optionalCourse": "History",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "His-1": 12,
+                "Geo-1": 10,
+                "Soc-1": 11,
+                "Eco-1": 12,
+                "Math-1": 11,
+                "ICT-1": 10,
+                "Ban-1": 10,
+                "Eng-1": 11,
+                "Pol-1": 13,
+                "Psy-1": 14,
+                "Stat-1": 12
+            }
+        },
+        {
+            "name": "John Snow",
+            "group": "Humanities",
+            "optionalCourse": "Geography",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "His-1": 14,
+                "Geo-1": 15,
+                "Soc-1": 13,
+                "Eco-1": 12,
+                "Math-1": 14,
+                "ICT-1": 13,
+                "Ban-1": 14,
+                "Eng-1": 13,
+                "Pol-1": 15,
+                "Psy-1": 14,
+                "Stat-1": 14
+            }
+        },
+        {
+            "name": "Sophia Black",
+            "group": "Humanities",
+            "optionalCourse": "Political Science",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "His-1": 15,
+                "Geo-1": 16,
+                "Soc-1": 16,
+                "Eco-1": 15,
+                "Math-1": 13,
+                "ICT-1": 15,
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Pol-1": 16,
+                "Psy-1": 16,
+                "Stat-1": 15
+            }
+        },
+        {
+            "name": "John Doe",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 14,
+                "Phy-1": 18,
+                "Che-1": 16,
+                "Bio-1": 13,
+                "HMM-1": 17,
+                "ICT-1": 18
+            }
+        },
+        {
+            "name": "Alex Turner",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 18,
+                "Phy-1": 19,
+                "Che-1": 18,
+                "Bio-1": 17,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Rachel Green",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Ban-1": 12,
+                "Eng-1": 15,
+                "Phy-1": 14,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 13,
+                "ICT-1": 15
+            }
+        },
+        {
+            "name": "Mark Johnson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 16,
+                "Phy-1": 18,
+                "Che-1": 17,
+                "Bio-1": 16,
+                "HMM-1": 17,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Lucy Kim",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Ban-1": 14,
+                "Eng-1": 16,
+                "Phy-1": 15,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 15,
+                "ICT-1": 16
+            }
+        },
+        {
+            "name": "Mia Watson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Phy-1": 16,
+                "Che-1": 15,
+                "Bio-1": 14,
+                "HMM-1": 16,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Liam Scott",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 19,
+            "totalMark": 114,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 19,
+                "Phy-1": 18,
+                "Che-1": 19,
+                "Bio-1": 18,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Jane Smith",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Acc-1": 16,
+                "Eco-1": 13,
+                "Bus-1": 15,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 14,
+                "Ban-1": 15,
+                "Eng-1": 13
+            }
+        },
+        {
+            "name": "Tom Hanks",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "Acc-1": 12,
+                "Eco-1": 12,
+                "Bus-1": 13,
+                "Math-1": 10,
+                "ICT-1": 11,
+                "BLA-1": 12,
+                "Stat-1": 11,
+                "Ban-1": 10,
+                "Eng-1": 11
+            }
+        },
+        {
+            "name": "Ella Reed",
+            "group": "Commerce",
+            "optionalCourse": "Management",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Acc-1": 14,
+                "Eco-1": 15,
+                "Bus-1": 16,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 15,
+                "Ban-1": 13,
+                "Eng-1": 14
+            }
+        },
+        {
+            "name": "Jack White",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Acc-1": 17,
+                "Eco-1": 16,
+                "Bus-1": 18,
+                "Math-1": 15,
+                "ICT-1": 16,
+                "BLA-1": 17,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 16
+            }
+        },
+        {
+            "name": "Megan Fox",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Acc-1": 19,
+                "Eco-1": 18,
+                "Bus-1": 17,
+                "Math-1": 18,
+                "ICT-1": 17,
+                "BLA-1": 18,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 17
+            }
+        },
+        {
+            "name": "Emily Davis",
+            "group": "Humanities",
+            "optionalCourse": "History",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "His-1": 12,
+                "Geo-1": 10,
+                "Soc-1": 11,
+                "Eco-1": 12,
+                "Math-1": 11,
+                "ICT-1": 10,
+                "Ban-1": 10,
+                "Eng-1": 11,
+                "Pol-1": 13,
+                "Psy-1": 14,
+                "Stat-1": 12
+            }
+        },
+        {
+            "name": "John Snow",
+            "group": "Humanities",
+            "optionalCourse": "Geography",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "His-1": 14,
+                "Geo-1": 15,
+                "Soc-1": 13,
+                "Eco-1": 12,
+                "Math-1": 14,
+                "ICT-1": 13,
+                "Ban-1": 14,
+                "Eng-1": 13,
+                "Pol-1": 15,
+                "Psy-1": 14,
+                "Stat-1": 14
+            }
+        },
+        {
+            "name": "Sophia Black",
+            "group": "Humanities",
+            "optionalCourse": "Political Science",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "His-1": 15,
+                "Geo-1": 16,
+                "Soc-1": 16,
+                "Eco-1": 15,
+                "Math-1": 13,
+                "ICT-1": 15,
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Pol-1": 16,
+                "Psy-1": 16,
+                "Stat-1": 15
+            }
+        },
+        {
+            "name": "John Doe",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 14,
+                "Phy-1": 18,
+                "Che-1": 16,
+                "Bio-1": 13,
+                "HMM-1": 17,
+                "ICT-1": 18
+            }
+        },
+        {
+            "name": "Alex Turner",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 18,
+                "Phy-1": 19,
+                "Che-1": 18,
+                "Bio-1": 17,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Rachel Green",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Ban-1": 12,
+                "Eng-1": 15,
+                "Phy-1": 14,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 13,
+                "ICT-1": 15
+            }
+        },
+        {
+            "name": "Mark Johnson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 16,
+                "Phy-1": 18,
+                "Che-1": 17,
+                "Bio-1": 16,
+                "HMM-1": 17,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Lucy Kim",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Ban-1": 14,
+                "Eng-1": 16,
+                "Phy-1": 15,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 15,
+                "ICT-1": 16
+            }
+        },
+        {
+            "name": "Mia Watson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Phy-1": 16,
+                "Che-1": 15,
+                "Bio-1": 14,
+                "HMM-1": 16,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Liam Scott",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 19,
+            "totalMark": 114,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 19,
+                "Phy-1": 18,
+                "Che-1": 19,
+                "Bio-1": 18,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Jane Smith",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Acc-1": 16,
+                "Eco-1": 13,
+                "Bus-1": 15,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 14,
+                "Ban-1": 15,
+                "Eng-1": 13
+            }
+        },
+        {
+            "name": "Tom Hanks",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "Acc-1": 12,
+                "Eco-1": 12,
+                "Bus-1": 13,
+                "Math-1": 10,
+                "ICT-1": 11,
+                "BLA-1": 12,
+                "Stat-1": 11,
+                "Ban-1": 10,
+                "Eng-1": 11
+            }
+        },
+        {
+            "name": "Ella Reed",
+            "group": "Commerce",
+            "optionalCourse": "Management",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Acc-1": 14,
+                "Eco-1": 15,
+                "Bus-1": 16,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 15,
+                "Ban-1": 13,
+                "Eng-1": 14
+            }
+        },
+        {
+            "name": "Jack White",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Acc-1": 17,
+                "Eco-1": 16,
+                "Bus-1": 18,
+                "Math-1": 15,
+                "ICT-1": 16,
+                "BLA-1": 17,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 16
+            }
+        },
+        {
+            "name": "Megan Fox",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Acc-1": 19,
+                "Eco-1": 18,
+                "Bus-1": 17,
+                "Math-1": 18,
+                "ICT-1": 17,
+                "BLA-1": 18,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 17
+            }
+        },
+        {
+            "name": "Emily Davis",
+            "group": "Humanities",
+            "optionalCourse": "History",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "His-1": 12,
+                "Geo-1": 10,
+                "Soc-1": 11,
+                "Eco-1": 12,
+                "Math-1": 11,
+                "ICT-1": 10,
+                "Ban-1": 10,
+                "Eng-1": 11,
+                "Pol-1": 13,
+                "Psy-1": 14,
+                "Stat-1": 12
+            }
+        },
+        {
+            "name": "John Snow",
+            "group": "Humanities",
+            "optionalCourse": "Geography",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "His-1": 14,
+                "Geo-1": 15,
+                "Soc-1": 13,
+                "Eco-1": 12,
+                "Math-1": 14,
+                "ICT-1": 13,
+                "Ban-1": 14,
+                "Eng-1": 13,
+                "Pol-1": 15,
+                "Psy-1": 14,
+                "Stat-1": 14
+            }
+        },
+        {
+            "name": "Sophia Black",
+            "group": "Humanities",
+            "optionalCourse": "Political Science",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "His-1": 15,
+                "Geo-1": 16,
+                "Soc-1": 16,
+                "Eco-1": 15,
+                "Math-1": 13,
+                "ICT-1": 15,
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Pol-1": 16,
+                "Psy-1": 16,
+                "Stat-1": 15
+            }
+        },
+        {
+            "name": "John Doe",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 14,
+                "Phy-1": 18,
+                "Che-1": 16,
+                "Bio-1": 13,
+                "HMM-1": 17,
+                "ICT-1": 18
+            }
+        },
+        {
+            "name": "Alex Turner",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 18,
+                "Phy-1": 19,
+                "Che-1": 18,
+                "Bio-1": 17,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Rachel Green",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Ban-1": 12,
+                "Eng-1": 15,
+                "Phy-1": 14,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 13,
+                "ICT-1": 15
+            }
+        },
+        {
+            "name": "Mark Johnson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 16,
+                "Phy-1": 18,
+                "Che-1": 17,
+                "Bio-1": 16,
+                "HMM-1": 17,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Lucy Kim",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Ban-1": 14,
+                "Eng-1": 16,
+                "Phy-1": 15,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 15,
+                "ICT-1": 16
+            }
+        },
+        {
+            "name": "Mia Watson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Phy-1": 16,
+                "Che-1": 15,
+                "Bio-1": 14,
+                "HMM-1": 16,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Liam Scott",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 19,
+            "totalMark": 114,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 19,
+                "Phy-1": 18,
+                "Che-1": 19,
+                "Bio-1": 18,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Jane Smith",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Acc-1": 16,
+                "Eco-1": 13,
+                "Bus-1": 15,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 14,
+                "Ban-1": 15,
+                "Eng-1": 13
+            }
+        },
+        {
+            "name": "Tom Hanks",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "Acc-1": 12,
+                "Eco-1": 12,
+                "Bus-1": 13,
+                "Math-1": 10,
+                "ICT-1": 11,
+                "BLA-1": 12,
+                "Stat-1": 11,
+                "Ban-1": 10,
+                "Eng-1": 11
+            }
+        },
+        {
+            "name": "Ella Reed",
+            "group": "Commerce",
+            "optionalCourse": "Management",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Acc-1": 14,
+                "Eco-1": 15,
+                "Bus-1": 16,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 15,
+                "Ban-1": 13,
+                "Eng-1": 14
+            }
+        },
+        {
+            "name": "Jack White",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Acc-1": 17,
+                "Eco-1": 16,
+                "Bus-1": 18,
+                "Math-1": 15,
+                "ICT-1": 16,
+                "BLA-1": 17,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 16
+            }
+        },
+        {
+            "name": "Megan Fox",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Acc-1": 19,
+                "Eco-1": 18,
+                "Bus-1": 17,
+                "Math-1": 18,
+                "ICT-1": 17,
+                "BLA-1": 18,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 17
+            }
+        },
+        {
+            "name": "Emily Davis",
+            "group": "Humanities",
+            "optionalCourse": "History",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "His-1": 12,
+                "Geo-1": 10,
+                "Soc-1": 11,
+                "Eco-1": 12,
+                "Math-1": 11,
+                "ICT-1": 10,
+                "Ban-1": 10,
+                "Eng-1": 11,
+                "Pol-1": 13,
+                "Psy-1": 14,
+                "Stat-1": 12
+            }
+        },
+        {
+            "name": "John Snow",
+            "group": "Humanities",
+            "optionalCourse": "Geography",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "His-1": 14,
+                "Geo-1": 15,
+                "Soc-1": 13,
+                "Eco-1": 12,
+                "Math-1": 14,
+                "ICT-1": 13,
+                "Ban-1": 14,
+                "Eng-1": 13,
+                "Pol-1": 15,
+                "Psy-1": 14,
+                "Stat-1": 14
+            }
+        },
+        {
+            "name": "Sophia Black",
+            "group": "Humanities",
+            "optionalCourse": "Political Science",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "His-1": 15,
+                "Geo-1": 16,
+                "Soc-1": 16,
+                "Eco-1": 15,
+                "Math-1": 13,
+                "ICT-1": 15,
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Pol-1": 16,
+                "Psy-1": 16,
+                "Stat-1": 15
+            }
+        },
+        {
+            "name": "John Doe",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 14,
+                "Phy-1": 18,
+                "Che-1": 16,
+                "Bio-1": 13,
+                "HMM-1": 17,
+                "ICT-1": 18
+            }
+        },
+        {
+            "name": "Alex Turner",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 18,
+                "Phy-1": 19,
+                "Che-1": 18,
+                "Bio-1": 17,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Rachel Green",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Ban-1": 12,
+                "Eng-1": 15,
+                "Phy-1": 14,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 13,
+                "ICT-1": 15
+            }
+        },
+        {
+            "name": "Mark Johnson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 16,
+                "Phy-1": 18,
+                "Che-1": 17,
+                "Bio-1": 16,
+                "HMM-1": 17,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Lucy Kim",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Ban-1": 14,
+                "Eng-1": 16,
+                "Phy-1": 15,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 15,
+                "ICT-1": 16
+            }
+        },
+        {
+            "name": "Mia Watson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Phy-1": 16,
+                "Che-1": 15,
+                "Bio-1": 14,
+                "HMM-1": 16,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Liam Scott",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 19,
+            "totalMark": 114,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 19,
+                "Phy-1": 18,
+                "Che-1": 19,
+                "Bio-1": 18,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Jane Smith",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Acc-1": 16,
+                "Eco-1": 13,
+                "Bus-1": 15,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 14,
+                "Ban-1": 15,
+                "Eng-1": 13
+            }
+        },
+        {
+            "name": "Tom Hanks",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "Acc-1": 12,
+                "Eco-1": 12,
+                "Bus-1": 13,
+                "Math-1": 10,
+                "ICT-1": 11,
+                "BLA-1": 12,
+                "Stat-1": 11,
+                "Ban-1": 10,
+                "Eng-1": 11
+            }
+        },
+        {
+            "name": "Ella Reed",
+            "group": "Commerce",
+            "optionalCourse": "Management",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Acc-1": 14,
+                "Eco-1": 15,
+                "Bus-1": 16,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 15,
+                "Ban-1": 13,
+                "Eng-1": 14
+            }
+        },
+        {
+            "name": "Jack White",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Acc-1": 17,
+                "Eco-1": 16,
+                "Bus-1": 18,
+                "Math-1": 15,
+                "ICT-1": 16,
+                "BLA-1": 17,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 16
+            }
+        },
+        {
+            "name": "Megan Fox",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Acc-1": 19,
+                "Eco-1": 18,
+                "Bus-1": 17,
+                "Math-1": 18,
+                "ICT-1": 17,
+                "BLA-1": 18,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 17
+            }
+        },
+        {
+            "name": "Emily Davis",
+            "group": "Humanities",
+            "optionalCourse": "History",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "His-1": 12,
+                "Geo-1": 10,
+                "Soc-1": 11,
+                "Eco-1": 12,
+                "Math-1": 11,
+                "ICT-1": 10,
+                "Ban-1": 10,
+                "Eng-1": 11,
+                "Pol-1": 13,
+                "Psy-1": 14,
+                "Stat-1": 12
+            }
+        },
+        {
+            "name": "John Snow",
+            "group": "Humanities",
+            "optionalCourse": "Geography",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "His-1": 14,
+                "Geo-1": 15,
+                "Soc-1": 13,
+                "Eco-1": 12,
+                "Math-1": 14,
+                "ICT-1": 13,
+                "Ban-1": 14,
+                "Eng-1": 13,
+                "Pol-1": 15,
+                "Psy-1": 14,
+                "Stat-1": 14
+            }
+        },
+        {
+            "name": "Sophia Black",
+            "group": "Humanities",
+            "optionalCourse": "Political Science",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "His-1": 15,
+                "Geo-1": 16,
+                "Soc-1": 16,
+                "Eco-1": 15,
+                "Math-1": 13,
+                "ICT-1": 15,
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Pol-1": 16,
+                "Psy-1": 16,
+                "Stat-1": 15
+            }
+        },
+         {
+            "name": "John Doe",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 14,
+                "Phy-1": 18,
+                "Che-1": 16,
+                "Bio-1": 13,
+                "HMM-1": 17,
+                "ICT-1": 18
+            }
+        },
+        {
+            "name": "Alex Turner",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 18,
+                "Phy-1": 19,
+                "Che-1": 18,
+                "Bio-1": 17,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Rachel Green",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Ban-1": 12,
+                "Eng-1": 15,
+                "Phy-1": 14,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 13,
+                "ICT-1": 15
+            }
+        },
+        {
+            "name": "Mark Johnson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 16,
+                "Phy-1": 18,
+                "Che-1": 17,
+                "Bio-1": 16,
+                "HMM-1": 17,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Lucy Kim",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Ban-1": 14,
+                "Eng-1": 16,
+                "Phy-1": 15,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 15,
+                "ICT-1": 16
+            }
+        },
+        {
+            "name": "Mia Watson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Phy-1": 16,
+                "Che-1": 15,
+                "Bio-1": 14,
+                "HMM-1": 16,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Liam Scott",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 19,
+            "totalMark": 114,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 19,
+                "Phy-1": 18,
+                "Che-1": 19,
+                "Bio-1": 18,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Jane Smith",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Acc-1": 16,
+                "Eco-1": 13,
+                "Bus-1": 15,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 14,
+                "Ban-1": 15,
+                "Eng-1": 13
+            }
+        },
+        {
+            "name": "Tom Hanks",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "Acc-1": 12,
+                "Eco-1": 12,
+                "Bus-1": 13,
+                "Math-1": 10,
+                "ICT-1": 11,
+                "BLA-1": 12,
+                "Stat-1": 11,
+                "Ban-1": 10,
+                "Eng-1": 11
+            }
+        },
+        {
+            "name": "Ella Reed",
+            "group": "Commerce",
+            "optionalCourse": "Management",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Acc-1": 14,
+                "Eco-1": 15,
+                "Bus-1": 16,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 15,
+                "Ban-1": 13,
+                "Eng-1": 14
+            }
+        },
+        {
+            "name": "Jack White",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Acc-1": 17,
+                "Eco-1": 16,
+                "Bus-1": 18,
+                "Math-1": 15,
+                "ICT-1": 16,
+                "BLA-1": 17,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 16
+            }
+        },
+        {
+            "name": "Megan Fox",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Acc-1": 19,
+                "Eco-1": 18,
+                "Bus-1": 17,
+                "Math-1": 18,
+                "ICT-1": 17,
+                "BLA-1": 18,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 17
+            }
+        },
+        {
+            "name": "Emily Davis",
+            "group": "Humanities",
+            "optionalCourse": "History",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "His-1": 12,
+                "Geo-1": 10,
+                "Soc-1": 11,
+                "Eco-1": 12,
+                "Math-1": 11,
+                "ICT-1": 10,
+                "Ban-1": 10,
+                "Eng-1": 11,
+                "Pol-1": 13,
+                "Psy-1": 14,
+                "Stat-1": 12
+            }
+        },
+        {
+            "name": "John Snow",
+            "group": "Humanities",
+            "optionalCourse": "Geography",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "His-1": 14,
+                "Geo-1": 15,
+                "Soc-1": 13,
+                "Eco-1": 12,
+                "Math-1": 14,
+                "ICT-1": 13,
+                "Ban-1": 14,
+                "Eng-1": 13,
+                "Pol-1": 15,
+                "Psy-1": 14,
+                "Stat-1": 14
+            }
+        },
+        {
+            "name": "Sophia Black",
+            "group": "Humanities",
+            "optionalCourse": "Political Science",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "His-1": 15,
+                "Geo-1": 16,
+                "Soc-1": 16,
+                "Eco-1": 15,
+                "Math-1": 13,
+                "ICT-1": 15,
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Pol-1": 16,
+                "Psy-1": 16,
+                "Stat-1": 15
+            }
+        },
+        {
+            "name": "John Doe",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 14,
+                "Phy-1": 18,
+                "Che-1": 16,
+                "Bio-1": 13,
+                "HMM-1": 17,
+                "ICT-1": 18
+            }
+        },
+        {
+            "name": "Alex Turner",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 18,
+                "Phy-1": 19,
+                "Che-1": 18,
+                "Bio-1": 17,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Rachel Green",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Ban-1": 12,
+                "Eng-1": 15,
+                "Phy-1": 14,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 13,
+                "ICT-1": 15
+            }
+        },
+        {
+            "name": "Mark Johnson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 16,
+                "Phy-1": 18,
+                "Che-1": 17,
+                "Bio-1": 16,
+                "HMM-1": 17,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Lucy Kim",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Ban-1": 14,
+                "Eng-1": 16,
+                "Phy-1": 15,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 15,
+                "ICT-1": 16
+            }
+        },
+        {
+            "name": "Mia Watson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Phy-1": 16,
+                "Che-1": 15,
+                "Bio-1": 14,
+                "HMM-1": 16,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Liam Scott",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 19,
+            "totalMark": 114,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 19,
+                "Phy-1": 18,
+                "Che-1": 19,
+                "Bio-1": 18,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Jane Smith",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Acc-1": 16,
+                "Eco-1": 13,
+                "Bus-1": 15,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 14,
+                "Ban-1": 15,
+                "Eng-1": 13
+            }
+        },
+        {
+            "name": "Tom Hanks",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "Acc-1": 12,
+                "Eco-1": 12,
+                "Bus-1": 13,
+                "Math-1": 10,
+                "ICT-1": 11,
+                "BLA-1": 12,
+                "Stat-1": 11,
+                "Ban-1": 10,
+                "Eng-1": 11
+            }
+        },
+        {
+            "name": "Ella Reed",
+            "group": "Commerce",
+            "optionalCourse": "Management",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Acc-1": 14,
+                "Eco-1": 15,
+                "Bus-1": 16,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 15,
+                "Ban-1": 13,
+                "Eng-1": 14
+            }
+        },
+        {
+            "name": "Jack White",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Acc-1": 17,
+                "Eco-1": 16,
+                "Bus-1": 18,
+                "Math-1": 15,
+                "ICT-1": 16,
+                "BLA-1": 17,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 16
+            }
+        },
+        {
+            "name": "Megan Fox",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Acc-1": 19,
+                "Eco-1": 18,
+                "Bus-1": 17,
+                "Math-1": 18,
+                "ICT-1": 17,
+                "BLA-1": 18,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 17
+            }
+        },
+        {
+            "name": "Emily Davis",
+            "group": "Humanities",
+            "optionalCourse": "History",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "His-1": 12,
+                "Geo-1": 10,
+                "Soc-1": 11,
+                "Eco-1": 12,
+                "Math-1": 11,
+                "ICT-1": 10,
+                "Ban-1": 10,
+                "Eng-1": 11,
+                "Pol-1": 13,
+                "Psy-1": 14,
+                "Stat-1": 12
+            }
+        },
+        {
+            "name": "John Snow",
+            "group": "Humanities",
+            "optionalCourse": "Geography",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "His-1": 14,
+                "Geo-1": 15,
+                "Soc-1": 13,
+                "Eco-1": 12,
+                "Math-1": 14,
+                "ICT-1": 13,
+                "Ban-1": 14,
+                "Eng-1": 13,
+                "Pol-1": 15,
+                "Psy-1": 14,
+                "Stat-1": 14
+            }
+        },
+        {
+            "name": "Sophia Black",
+            "group": "Humanities",
+            "optionalCourse": "Political Science",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "His-1": 15,
+                "Geo-1": 16,
+                "Soc-1": 16,
+                "Eco-1": 15,
+                "Math-1": 13,
+                "ICT-1": 15,
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Pol-1": 16,
+                "Psy-1": 16,
+                "Stat-1": 15
+            }
+        },
+        {
+            "name": "John Doe",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 14,
+                "Phy-1": 18,
+                "Che-1": 16,
+                "Bio-1": 13,
+                "HMM-1": 17,
+                "ICT-1": 18
+            }
+        },
+        {
+            "name": "Alex Turner",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 18,
+                "Phy-1": 19,
+                "Che-1": 18,
+                "Bio-1": 17,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Rachel Green",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Ban-1": 12,
+                "Eng-1": 15,
+                "Phy-1": 14,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 13,
+                "ICT-1": 15
+            }
+        },
+        {
+            "name": "Mark Johnson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Ban-1": 15,
+                "Eng-1": 16,
+                "Phy-1": 18,
+                "Che-1": 17,
+                "Bio-1": 16,
+                "HMM-1": 17,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Lucy Kim",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Ban-1": 14,
+                "Eng-1": 16,
+                "Phy-1": 15,
+                "Che-1": 13,
+                "Bio-1": 14,
+                "HMM-1": 15,
+                "ICT-1": 16
+            }
+        },
+        {
+            "name": "Mia Watson",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Phy-1": 16,
+                "Che-1": 15,
+                "Bio-1": 14,
+                "HMM-1": 16,
+                "ICT-1": 17
+            }
+        },
+        {
+            "name": "Liam Scott",
+            "group": "Science",
+            "optionalCourse": "Math",
+            "averageMark": 19,
+            "totalMark": 114,
+            "subjects": {
+                "Ban-1": 17,
+                "Eng-1": 19,
+                "Phy-1": 18,
+                "Che-1": 19,
+                "Bio-1": 18,
+                "HMM-1": 18,
+                "ICT-1": 19
+            }
+        },
+        {
+            "name": "Jane Smith",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 14,
+            "totalMark": 84,
+            "subjects": {
+                "Acc-1": 16,
+                "Eco-1": 13,
+                "Bus-1": 15,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 14,
+                "Ban-1": 15,
+                "Eng-1": 13
+            }
+        },
+        {
+            "name": "Tom Hanks",
+            "group": "Commerce",
+            "optionalCourse": "Accounting",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "Acc-1": 12,
+                "Eco-1": 12,
+                "Bus-1": 13,
+                "Math-1": 10,
+                "ICT-1": 11,
+                "BLA-1": 12,
+                "Stat-1": 11,
+                "Ban-1": 10,
+                "Eng-1": 11
+            }
+        },
+        {
+            "name": "Ella Reed",
+            "group": "Commerce",
+            "optionalCourse": "Management",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "Acc-1": 14,
+                "Eco-1": 15,
+                "Bus-1": 16,
+                "Math-1": 14,
+                "ICT-1": 12,
+                "BLA-1": 16,
+                "Stat-1": 15,
+                "Ban-1": 13,
+                "Eng-1": 14
+            }
+        },
+        {
+            "name": "Jack White",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 17,
+            "totalMark": 102,
+            "subjects": {
+                "Acc-1": 17,
+                "Eco-1": 16,
+                "Bus-1": 18,
+                "Math-1": 15,
+                "ICT-1": 16,
+                "BLA-1": 17,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 16
+            }
+        },
+        {
+            "name": "Megan Fox",
+            "group": "Commerce",
+            "optionalCourse": "Finance",
+            "averageMark": 18,
+            "totalMark": 108,
+            "subjects": {
+                "Acc-1": 19,
+                "Eco-1": 18,
+                "Bus-1": 17,
+                "Math-1": 18,
+                "ICT-1": 17,
+                "BLA-1": 18,
+                "Stat-1": 17,
+                "Ban-1": 16,
+                "Eng-1": 17
+            }
+        },
+        {
+            "name": "Emily Davis",
+            "group": "Humanities",
+            "optionalCourse": "History",
+            "averageMark": 12,
+            "totalMark": 72,
+            "subjects": {
+                "His-1": 12,
+                "Geo-1": 10,
+                "Soc-1": 11,
+                "Eco-1": 12,
+                "Math-1": 11,
+                "ICT-1": 10,
+                "Ban-1": 10,
+                "Eng-1": 11,
+                "Pol-1": 13,
+                "Psy-1": 14,
+                "Stat-1": 12
+            }
+        },
+        {
+            "name": "John Snow",
+            "group": "Humanities",
+            "optionalCourse": "Geography",
+            "averageMark": 15,
+            "totalMark": 90,
+            "subjects": {
+                "His-1": 14,
+                "Geo-1": 15,
+                "Soc-1": 13,
+                "Eco-1": 12,
+                "Math-1": 14,
+                "ICT-1": 13,
+                "Ban-1": 14,
+                "Eng-1": 13,
+                "Pol-1": 15,
+                "Psy-1": 14,
+                "Stat-1": 14
+            }
+        },
+        {
+            "name": "Sophia Black",
+            "group": "Humanities",
+            "optionalCourse": "Political Science",
+            "averageMark": 16,
+            "totalMark": 96,
+            "subjects": {
+                "His-1": 15,
+                "Geo-1": 16,
+                "Soc-1": 16,
+                "Eco-1": 15,
+                "Math-1": 13,
+                "ICT-1": 15,
+                "Ban-1": 16,
+                "Eng-1": 15,
+                "Pol-1": 16,
+                "Psy-1": 16,
+                "Stat-1": 15
+            }
+        }
+    ]
+}
